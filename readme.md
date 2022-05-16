@@ -1,7 +1,3 @@
-#Hi
-
 # Hello 
-
-# new line
 
 
